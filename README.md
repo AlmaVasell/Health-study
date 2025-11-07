@@ -3,8 +3,10 @@ Del 1 – Grundläggande analys och statistik
 För G ska du göra:
 
 Beskrivande analys
-Räkna ut medel, median, min och max för:  age, weight, height, systolic_bp, cholesterol.
-Skapa minst 3 olika grafer (t.ex. histogram över blodtryck, boxplot över vikt per kön, stapeldiagram över andelen rökare).
+Räkna ut medel, median, min och max för:  age, weight, height, systolic_bp, cholesterol. KLART
+
+Skapa minst 3 olika grafer (t.ex. histogram över blodtryck, boxplot över vikt per kön, stapeldiagram över andelen rökare). KLART
+
 Simulering kopplad till caset (använd numpy.random + seed)
 Beräkna andelen personer i datasetet som har sjukdomen.
 Använd numpy för att simulera 1000 slumpade personer med samma sannolikhet för sjukdom.
