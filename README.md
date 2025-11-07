@@ -11,8 +11,10 @@ Simulering kopplad till caset (använd numpy.random + seed)
 Beräkna andelen personer i datasetet som har sjukdomen.
 Använd numpy för att simulera 1000 slumpade personer med samma sannolikhet för sjukdom.
 Jämför den simulerade andelen med den verkliga andelen i datasetet.
+
 Konfidensintervall
 Beräkna ett konfidensintervall för medelvärdet av systolic_bp (t.ex. med normalapproximation eller bootstrap, som vi gått igenom på kursen).
+
 Hypotesprövning
 Testa hypotesen: ”Rökare har högre medel-blodtryck än icke-rökare.”
 Använd en av metoderna vi gått igenom (t.ex. bootstrap eller enkel t-test-funktion).
