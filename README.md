@@ -3,17 +3,17 @@ Del 1 – Grundläggande analys och statistik
 För G ska du göra:
 
 Beskrivande analys
-Räkna ut medel, median, min och max för:  age, weight, height, systolic_bp, cholesterol. KLART
+Räkna ut medel, median, min och max för:  age, weight, height, systolic_bp, cholesterol.        KLART
 
-Skapa minst 3 olika grafer (t.ex. histogram över blodtryck, boxplot över vikt per kön, stapeldiagram över andelen rökare). KLART
+Skapa minst 3 olika grafer (t.ex. histogram över blodtryck, boxplot över vikt per kön, stapeldiagram över andelen rökare).      KLART
 
 Simulering kopplad till caset (använd numpy.random + seed)
 Beräkna andelen personer i datasetet som har sjukdomen.
 Använd numpy för att simulera 1000 slumpade personer med samma sannolikhet för sjukdom.
-Jämför den simulerade andelen med den verkliga andelen i datasetet.
+Jämför den simulerade andelen med den verkliga andelen i datasetet.     KLART
 
 Konfidensintervall
-Beräkna ett konfidensintervall för medelvärdet av systolic_bp (t.ex. med normalapproximation eller bootstrap, som vi gått igenom på kursen).
+Beräkna ett konfidensintervall för medelvärdet av systolic_bp (t.ex. med normalapproximation eller bootstrap, som vi gått igenom på kursen).    KLART
 
 Hypotesprövning
 Testa hypotesen: ”Rökare har högre medel-blodtryck än icke-rökare.”
